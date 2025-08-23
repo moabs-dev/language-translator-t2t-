@@ -1,0 +1,2 @@
+if anyone want to perform all 4tasks(s2s,s2t,t2s,t2t) he/she can do it while taking a guide as 
+repo: https://github.com/babadue/Backend_API_Seamless-m4t-v2/blob/main/seamlessm4tv2_api.py
