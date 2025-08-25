@@ -12,6 +12,7 @@
 #     depends_on:
 #       - backend
 
+#backend and frontend serveices are build when given their folders(and Dockerfile names) , on which ports do they run and if any service depend on another
 services:
   backend:
     build:
