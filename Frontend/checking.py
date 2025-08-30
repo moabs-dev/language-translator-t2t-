@@ -54,7 +54,7 @@ lang_map = {
     "Galician": "gl_ES",
     "Bulgarian": "bg_BG",
 }
-
+#This was Just for testing
 # bef=[]
 # for nums in lang_map:
 #     before=lang_map[nums]
